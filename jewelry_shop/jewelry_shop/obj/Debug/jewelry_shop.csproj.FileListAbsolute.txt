@@ -1,0 +1,58 @@
+C:\Users\hp\Desktop\6 сем\net\jewelry_shop\jewelry_shop\bin\Debug\jewelry_shop.exe.config
+C:\Users\hp\Desktop\6 сем\net\jewelry_shop\jewelry_shop\bin\Debug\jewelry_shop.exe
+C:\Users\hp\Desktop\6 сем\net\jewelry_shop\jewelry_shop\bin\Debug\jewelry_shop.pdb
+C:\Users\hp\Desktop\6 сем\net\jewelry_shop\jewelry_shop\bin\Debug\EntityFramework.dll
+C:\Users\hp\Desktop\6 сем\net\jewelry_shop\jewelry_shop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\Desktop\6 сем\net\jewelry_shop\jewelry_shop\bin\Debug\EntityFramework.xml
+C:\Users\hp\Desktop\6 сем\net\jewelry_shop\jewelry_shop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\Desktop\6 сем\net\jewelry_shop\jewelry_shop\obj\Debug\jewelry_shop.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\6 сем\net\jewelry_shop\jewelry_shop\obj\Debug\jewelry_shop.AddMaterial.resources
+C:\Users\hp\Desktop\6 сем\net\jewelry_shop\jewelry_shop\obj\Debug\jewelry_shop.AddProduct.resources
+C:\Users\hp\Desktop\6 сем\net\jewelry_shop\jewelry_shop\obj\Debug\jewelry_shop.AddSale.resources
+C:\Users\hp\Desktop\6 сем\net\jewelry_shop\jewelry_shop\obj\Debug\jewelry_shop.AddTitle.resources
+C:\Users\hp\Desktop\6 сем\net\jewelry_shop\jewelry_shop\obj\Debug\jewelry_shop.AddUser.resources
+C:\Users\hp\Desktop\6 сем\net\jewelry_shop\jewelry_shop\obj\Debug\jewelry_shop.AdminMenu.resources
+C:\Users\hp\Desktop\6 сем\net\jewelry_shop\jewelry_shop\obj\Debug\jewelry_shop.Autorization.resources
+C:\Users\hp\Desktop\6 сем\net\jewelry_shop\jewelry_shop\obj\Debug\jewelry_shop.editMaterial.resources
+C:\Users\hp\Desktop\6 сем\net\jewelry_shop\jewelry_shop\obj\Debug\jewelry_shop.editProduct.resources
+C:\Users\hp\Desktop\6 сем\net\jewelry_shop\jewelry_shop\obj\Debug\jewelry_shop.editSale.resources
+C:\Users\hp\Desktop\6 сем\net\jewelry_shop\jewelry_shop\obj\Debug\jewelry_shop.editTitle.resources
+C:\Users\hp\Desktop\6 сем\net\jewelry_shop\jewelry_shop\obj\Debug\jewelry_shop.Migrations.InitialCreate.resources
+C:\Users\hp\Desktop\6 сем\net\jewelry_shop\jewelry_shop\obj\Debug\jewelry_shop.Migrations.Global.resources
+C:\Users\hp\Desktop\6 сем\net\jewelry_shop\jewelry_shop\obj\Debug\jewelry_shop.Properties.Resources.resources
+C:\Users\hp\Desktop\6 сем\net\jewelry_shop\jewelry_shop\obj\Debug\jewelry_shop.UserMenu.resources
+C:\Users\hp\Desktop\6 сем\net\jewelry_shop\jewelry_shop\obj\Debug\jewelry_shop.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\6 сем\net\jewelry_shop\jewelry_shop\obj\Debug\jewelry_shop.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\6 сем\net\jewelry_shop\jewelry_shop\obj\Debug\jewelry_shop.csproj.CopyComplete
+C:\Users\hp\Desktop\6 сем\net\jewelry_shop\jewelry_shop\obj\Debug\jewelry_shop.exe
+C:\Users\hp\Desktop\6 сем\net\jewelry_shop\jewelry_shop\obj\Debug\jewelry_shop.pdb
+C:\Users\hp\Desktop\6 сем\net\jewelry_shop\jewelry_shop\obj\Debug\jewelry_shop.Export.resources
+C:\Users\Mark\source\repos\jewelry_shop\jewelry_shop\bin\Debug\jewelry_shop.exe.config
+C:\Users\Mark\source\repos\jewelry_shop\jewelry_shop\bin\Debug\jewelry_shop.exe
+C:\Users\Mark\source\repos\jewelry_shop\jewelry_shop\bin\Debug\jewelry_shop.pdb
+C:\Users\Mark\source\repos\jewelry_shop\jewelry_shop\bin\Debug\EntityFramework.dll
+C:\Users\Mark\source\repos\jewelry_shop\jewelry_shop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mark\source\repos\jewelry_shop\jewelry_shop\bin\Debug\EntityFramework.xml
+C:\Users\Mark\source\repos\jewelry_shop\jewelry_shop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mark\source\repos\jewelry_shop\jewelry_shop\obj\Debug\jewelry_shop.csprojAssemblyReference.cache
+C:\Users\Mark\source\repos\jewelry_shop\jewelry_shop\obj\Debug\jewelry_shop.AddMaterial.resources
+C:\Users\Mark\source\repos\jewelry_shop\jewelry_shop\obj\Debug\jewelry_shop.AddProduct.resources
+C:\Users\Mark\source\repos\jewelry_shop\jewelry_shop\obj\Debug\jewelry_shop.AddSale.resources
+C:\Users\Mark\source\repos\jewelry_shop\jewelry_shop\obj\Debug\jewelry_shop.AddTitle.resources
+C:\Users\Mark\source\repos\jewelry_shop\jewelry_shop\obj\Debug\jewelry_shop.AddUser.resources
+C:\Users\Mark\source\repos\jewelry_shop\jewelry_shop\obj\Debug\jewelry_shop.AdminMenu.resources
+C:\Users\Mark\source\repos\jewelry_shop\jewelry_shop\obj\Debug\jewelry_shop.Autorization.resources
+C:\Users\Mark\source\repos\jewelry_shop\jewelry_shop\obj\Debug\jewelry_shop.editMaterial.resources
+C:\Users\Mark\source\repos\jewelry_shop\jewelry_shop\obj\Debug\jewelry_shop.editProduct.resources
+C:\Users\Mark\source\repos\jewelry_shop\jewelry_shop\obj\Debug\jewelry_shop.editSale.resources
+C:\Users\Mark\source\repos\jewelry_shop\jewelry_shop\obj\Debug\jewelry_shop.editTitle.resources
+C:\Users\Mark\source\repos\jewelry_shop\jewelry_shop\obj\Debug\jewelry_shop.Export.resources
+C:\Users\Mark\source\repos\jewelry_shop\jewelry_shop\obj\Debug\jewelry_shop.Migrations.InitialCreate.resources
+C:\Users\Mark\source\repos\jewelry_shop\jewelry_shop\obj\Debug\jewelry_shop.Migrations.Global.resources
+C:\Users\Mark\source\repos\jewelry_shop\jewelry_shop\obj\Debug\jewelry_shop.Properties.Resources.resources
+C:\Users\Mark\source\repos\jewelry_shop\jewelry_shop\obj\Debug\jewelry_shop.UserMenu.resources
+C:\Users\Mark\source\repos\jewelry_shop\jewelry_shop\obj\Debug\jewelry_shop.csproj.GenerateResource.cache
+C:\Users\Mark\source\repos\jewelry_shop\jewelry_shop\obj\Debug\jewelry_shop.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\jewelry_shop\jewelry_shop\obj\Debug\jewelry_shop.csproj.CopyComplete
+C:\Users\Mark\source\repos\jewelry_shop\jewelry_shop\obj\Debug\jewelry_shop.exe
+C:\Users\Mark\source\repos\jewelry_shop\jewelry_shop\obj\Debug\jewelry_shop.pdb
